@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bianca-python-assistente",
+  "private_key_id": "09e4083594e161e3ed66452b846c72877eeb3038",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDIiqHpCeORqA10\nv8CvJupnUFFiYUToPHb7ZYLzWmDCwUuKGKPC4h/xtCOtJ5rtUjxLkfbrHb3lwxKk\nHsPH6lrgd+hEudTHr7hNFkB1S4zrf4Mwo0vS/vuPFMucUgBDa3TRDITwxmyJestF\nf+cDOHIixZ9nw4AqgKzGSSULuz7HH/SaHW8fOKRf4R1UzwY9Qs+erg2aXKVFjOaz\nGwJS3yug2jTStRDpFR9zt1KUiyjzlbyja5ESAFZpINGwQ/7aDSAKxg46Ki1mQyZP\nwa/CtP1Yjwj6/Rr8QILiguZCMB91UZdh0qa7NMMn6MSWTrqOJZeCDz/NO3jzCFoA\nkwL0ugM5AgMBAAECggEAObOx/KSsxxdMr+AQqBURcyKoGB+WvR/QuGsv76d8me0W\nOCj4zbVUra5Aaa0wpcJ4uOHJ40LOhhLIBVMY0Cf9eALoYQX7VG2aIQwbBeT0Kjqp\nW9BQm+hkJ3o7T8JEcyGzHgd1JPZi+nfLjzbLGKEgLiMgx7F36kLV88POFf8NhCuK\nRw7UYpexKbxbe6amVJEAyhA+ehfAsnpF0hbfI9wVibFnspSbELkyaZkkFg4qNYjV\n2btRkZ7MEC6dvd+ZAgeUZVWtYCOyWxe7e6tzU6s9hXJCmV8Yg6E8JsshxOrMpl1r\nQRlu5Wb4HJpBmsookbFlEHpbNQ7KV5fw2/e8dvrrxQKBgQDlCeeLrFZfD2qrMxCf\nreqsUAAeU2YozRv4tszfJkHSCE/vFZKWjnLZnBQnCetPX6vWoiemc7SQuj8/zRoL\n96MeOosyTf92vHNhDofC89Mw1HhU1EyiJGWPqez5xcDbQWwLIPa2Q+fzutnKFAWN\n+ZWu/KWN27t7rDIkLzxMpPfE4wKBgQDgJfbge8ZnID9rfjv6QyplYVGSHXVUDVB+\nK3xKzkzTfx0CMvgSXz8BGNI2+D7/ArEsXGXTLHUZ9lzFl1aMDWae9IRnR/40g7B7\n4qhg1uJTZXpkARaeTX5WqfCyqnL3BY+zBNuq+TIZfPbkZKqhYB58Om18rfy7hgrI\ni/+r458uMwKBgAcyH3cw6+nCpzxHt2783NGbFdXeEuiXQRi4TYl5PzolDrXZPKjE\nQvF5SNzNH/p3bAOrRomhOvwNDe2oOPhFSHerqTHkZ3FIjGtxNGy4klsHYdxwaxPx\nBsvTr+FNCDkbPhS/bWDek0wCA9Ooe2AxhjVgNKdXTvWcvFqMrV1PFYW3AoGABPny\nzDMTSZDWt5062aiKFWwesn7C7xXIlrSCcuq3m+5zh2v4Q/gnXu/dIulKBMFbi5+V\nhyWyh9wHXT+p5Twa7iaBlgVsKGBQF8AFevjqV22mVPgNN4CC8IufU2gjW0adVR0j\nf10+9n/mv1VY0HJg2uM1MRJvzP4B2Uf6aieIji8CgYEA226m9QXkRWbkLfNoFdUD\nzSXVJa35ENVxbF9wCBo7cDTRydGTlXQjVDxXVojoDWS125I36OK3wiuP8MHBWPaE\nyxUZF8vaybWY1Dh1KHgqCu7i5iQuwHDvRSJVR8zKkDIyOtCo5f/yqpjShDwFfLoR\nwNcrJEVF5VWbgYQczitelXM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bianca@bianca-python-assistente.iam.gserviceaccount.com",
+  "client_id": "112277144354797582942",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bianca%40bianca-python-assistente.iam.gserviceaccount.com"
+}
